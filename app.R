@@ -12,14 +12,13 @@ library(igraph)
 library(visNetwork) # specifically for filtering nodes and zooming in/out
 library(DT) # for putting borders around the figures
 # https://stackoverflow.com/questions/75149954/add-black-border-to-sidebarpanel-and-mainpanel-r-shiny
-library(bslib) # this package is needed for an accordion panel
 library(shinyGizmo)
 library(xfun) # for handling different file types
 library(readxl) # for reading Excel files
 library(data.table) # for rearranging input data tables
 library(ggvenn)
 library(tidyverse)
-library(shinycssloaders)
+library(shinycssloaders) # for loading images into the app
 
 # Selectize input
 # https://github.com/yihanwu/Nutrient_Calculator/blob/master/app.R
