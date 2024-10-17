@@ -7,7 +7,7 @@
 #    https://shiny.posit.co/
 #
 
-# library(shinydashboard)
+library(shiny)
 library(igraph)
 library(visNetwork) # specifically for filtering nodes and zooming in/out
 library(DT) # for putting borders around the figures
