@@ -2,16 +2,17 @@
 
 ## PACKAGES REQUIRED:
 
-1. igraph (version 2.0.3)
-2. visNetwork (version 2.1.2)
-3. DT (version 0.33)
-4. shinyGizmo (version 0.4.2)
-5. xfun (version 0.47)
-6. readxl (version 1.4.3)
-7. data.table (version 1.16.0)
-8. ggvenn (version 0.1.10)
-9. tidyverse (version 2.0.0)
-10. shinycssloaders (version 1.1.0)
+1. shiny (version 1.9.1)
+2. igraph (version 2.0.3)
+3. visNetwork (version 2.1.2)
+4. DT (version 0.33)
+5. shinyGizmo (version 0.4.2)
+6. xfun (version 0.47)
+7. readxl (version 1.4.3)
+8. data.table (version 1.16.0)
+9. ggvenn (version 0.1.10)
+10. tidyverse (version 2.0.0)
+11. shinycssloaders (version 1.1.0)
 
 
 ## DESCRIPTION:
